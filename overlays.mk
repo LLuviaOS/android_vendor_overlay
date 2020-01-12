@@ -5,6 +5,7 @@ DEVICE_PACKAGE_OVERLAYS += vendor/overlay/common/
 PRODUCT_PACKAGES += \
     LLuviaOverlayStub \
     PrimaryColorLLuviaBlackOverlay \
+    PrimaryColorLLuviaOceanOverlay
 
 # Accents
 include vendor/overlay/accents.mk
