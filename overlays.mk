@@ -4,6 +4,7 @@ DEVICE_PACKAGE_OVERLAYS += vendor/overlay/common/
 # Extra packages
 PRODUCT_PACKAGES += \
     LLuviaOverlayStub \
+    PrimaryColorLLuviaBlackOverlay \
 
 # Accents
 include vendor/overlay/accents.mk
