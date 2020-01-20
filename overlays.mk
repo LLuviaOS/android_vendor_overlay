@@ -11,6 +11,7 @@ PRODUCT_PACKAGES += \
     PrimaryColorLLuviaOceanOverlay \
     PrimaryColorLLuviaNatureOverlay \
     PrimaryColorLLuviaFlameOverlay \
+    PrimaryColorLLuviaCharcoalBlackOverlay \
     EmptyOverlay \
     MatchmakerOverlay
 
