@@ -10,6 +10,7 @@ PRODUCT_PACKAGES += \
     PrimaryColorLLuviaBlackOverlay \
     PrimaryColorLLuviaOceanOverlay \
     PrimaryColorLLuviaNatureOverlay
+    EmptyOverlay
 
 # Accents
 include vendor/overlay/accents.mk
