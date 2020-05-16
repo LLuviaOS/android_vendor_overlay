@@ -14,6 +14,7 @@ PRODUCT_PACKAGES += \
     LightBlue \
     LightGreen \
     Lime \
+    Mirinda \
     Orange \
     Pink \
     Purple \
