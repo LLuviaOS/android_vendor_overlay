@@ -15,6 +15,7 @@ PRODUCT_PACKAGES += \
     LightGreen \
     Lime \
     Mirinda \
+    ICFBlue \
     Orange \
     Pink \
     Purple \
